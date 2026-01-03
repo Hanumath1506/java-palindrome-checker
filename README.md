@@ -17,11 +17,10 @@ src/
 
 
 ## How to Run
-Compile:
+Compile (1st one) and Run(2nd one):
 ```bash
 javac src/PalindromeCheck.java
 
-```Run:
 java src.PalindromeCheck
 
 
