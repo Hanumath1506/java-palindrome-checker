@@ -21,7 +21,7 @@ Compile:
 ```bash
 javac src/PalindromeCheck.java
 
-Run:
+```Run:
 java src.PalindromeCheck
 
 
